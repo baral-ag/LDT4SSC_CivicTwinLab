@@ -14,39 +14,39 @@
 schema_version: 1
 
 # Short name of the pilot, in lowercase with hyphens (used in URLs)
-short_name: <civic-twin-lab>
+short_name: civic-twin-lab
 
 # Human-readable name of the pilot
-name: <CivicTwinLab>
+name: CivicTwinLab
 
 # Short description of the pilot (one or two sentences)
-description: >
-  <CivicTwinLab develops interoperable Local Digital Twins for Ingolstadt
+description: 
+  CivicTwinLab develops interoperable Local Digital Twins for Ingolstadt
   and Zagreb, integrating fragmented urban data to address climate resilience,
   disaster management and urban-planning challenges. The pilot enables
   transparent, data-driven decision-making for public administrations,
-  emergency services and citizens.>
+  emergency services and citizens.
 
 # LDT4SSC work strand: WS1, WS2, or WS3
-work_strand: <WS2>
+work_strand: WS2
 
 # The cities, regions, or communities involved in this pilot
 locations:
-  - city: <Ingolstadt>
-    country: <Germany>
-    country_code: <DE>
-  - city: <Zagreb>
-    country: <Croatia>
-    country_code: <HR>
+  - city: Ingolstadt
+    country: Germany
+    country_code: DE
+  - city: Zagreb
+    country: Croatia
+    country_code: HR
   # Add more entries as needed for multi-city pilots
 
 # The thematic focus areas of the pilot, drawn from the LDT4SSC topic list.
 # Pick all that apply. The full list is documented in the LDT4SSC Knowledge
 # Hub under Resources for Pilots.
 focus_areas:
-  - <climate-resilience>
-  - <disaster-management>
-  - <urban planning>
+  - climate-resilience
+  - disaster-management
+  - urban planning
 
 # The consortium members participating in this pilot
 consortium:
@@ -72,7 +72,7 @@ contact:
   organisation: <Baral Geohaus-Consulting AG>
 
 # Date the pilot started (ISO 8601 format: YYYY-MM-DD)
-start_date: <2026-08-31>
+start_date: 2026-08-31
 
 # Optional: expected end date of the pilot
 # end_date: <YYYY-MM-DD>

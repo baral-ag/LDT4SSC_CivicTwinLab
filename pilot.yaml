@@ -67,9 +67,9 @@ consortium:
 
 # Primary contact for the pilot
 contact:
-  name: <Wolfgang Hanle>
-  email: <wolfgang.hanle@baral-geohaus.de>
-  organisation: <Baral Geohaus-Consulting AG>
+  name: Wolfgang Hanle
+  email: wolfgang.hanle@baral-geohaus.de
+  organisation: Baral Geohaus-Consulting AG
 
 # Date the pilot started (ISO 8601 format: YYYY-MM-DD)
 start_date: 2026-08-31

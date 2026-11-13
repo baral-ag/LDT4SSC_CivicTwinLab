@@ -75,7 +75,7 @@ contact:
 start_date: 2026-08-31
 
 # Optional: expected end date of the pilot
-# end_date: <YYYY-MM-DD>
+end_date: 2028-02-29
 
 # Optional: list of external repositories or websites associated with this pilot
 # external_links:
